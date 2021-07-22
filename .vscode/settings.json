@@ -1,0 +1,13 @@
+{
+    "workbench.settings.editor": "json",
+    "workbench.settings.useSplitJSON": true,
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.openDefaultKeybindings": true,
+    "terminal.integrated.automationShell.windows": "",
+    "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace, Fira Code, menlo",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace, Fira Code, menlo",
+    "editor.codeLensFontFamily": "Consolas, 'Courier New', monospace, Fira Code, menlo",
+    "editor.inlayHints.fontFamily": "Consolas, 'Courier New', monospace, Fira Code, menlo",
+    "debug.console.fontFamily": "default, Consolas, 'Courier New', monospace, Fira Code, menlo",
+    "scm.inputFontFamily": "default, Consolas, 'Courier New', monospace, Fira Code, menlo"
+}
